@@ -1,0 +1,63 @@
+[
+    {
+        "clients": [
+            {
+                "id": "PHA001",
+                "name": "PHARMETICS (PTY) LTD",
+                "rep": "BC2"
+            },
+            {
+                "id": "NOU001",
+                "name": "1701 NOUGAT & HAMPERS CC",
+                "rep": ""
+            },
+            {
+                "id": "3RD001",
+                "name": "3rde House",
+                "rep": "LR1"
+            }
+        ],
+        "status": [
+            {
+                "id": "1",
+                "name": "Active"
+            },
+            {
+                "id": "2",
+                "name": "Complete"
+            },
+            {
+                "id": "3",
+                "name": "Inactive"
+            }
+        ],
+        "ae": [
+            {
+                "id": "AM3",
+                "name": "Andrew Maccullum"
+            },
+            {
+                "id": "AM4",
+                "name": "Andrew Macduff"
+            },
+            {
+                "id": "AK4",
+                "name": "Anthony Kilpin"
+            }
+        ],
+        "type": [
+            {
+                "id": "1",
+                "name": "Default"
+            },
+            {
+                "id": "2",
+                "name": "Pitch Work"
+            },
+            {
+                "id": "3",
+                "name": "Pro-Active In-House"
+            }
+        ]
+    }
+]
