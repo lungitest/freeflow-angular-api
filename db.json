@@ -1,19 +1,19 @@
 {
         "clients": [
             {
-                "id": "PHA001",
-                "name": "PHARMETICS (PTY) LTD",
-                "rep": "BC2"
+                "value": "PHA001",
+                "label": "PHARMETICS (PTY) LTD",
+                "group": "BC2"
             },
             {
-                "id": "NOU001",
-                "name": "1701 NOUGAT & HAMPERS CC",
-                "rep": ""
+                "value": "NOU001",
+                "label": "1701 NOUGAT & HAMPERS CC",
+                "group": ""
             },
             {
-                "id": "3RD001",
-                "name": "3rde House",
-                "rep": "LR1"
+                "value": "3RD001",
+                "label": "3rde House",
+                "group": "LR1"
             }
         ],
         "status": [
