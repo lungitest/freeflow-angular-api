@@ -18,44 +18,44 @@
         ],
         "status": [
             {
-                "id": "1",
-                "name": "Active"
+                "value": "1",
+                "label": "Active"
             },
             {
-                "id": "2",
-                "name": "Complete"
+                "value": "2",
+                "label": "Complete"
             },
             {
-                "id": "3",
-                "name": "Inactive"
+                "value": "3",
+                "label": "Inactive"
             }
         ],
         "ae": [
             {
-                "id": "AM3",
-                "name": "Andrew Maccullum"
+                "value": "AM3",
+                "label": "Andrew Maccullum"
             },
             {
-                "id": "AM4",
-                "name": "Andrew Macduff"
+                "value": "AM4",
+                "label": "Andrew Macduff"
             },
             {
-                "id": "AK4",
-                "name": "Anthony Kilpin"
+                "value": "AK4",
+                "label": "Anthony Kilpin"
             }
         ],
         "type": [
             {
-                "id": "1",
-                "name": "Default"
+                "value": "1",
+                "label": "Default"
             },
             {
-                "id": "2",
-                "name": "Pitch Work"
+                "value": "2",
+                "label": "Pitch Work"
             },
             {
-                "id": "3",
-                "name": "Pro-Active In-House"
+                "value": "3",
+                "label": "Pro-Active In-House"
             }
         ]
     }
