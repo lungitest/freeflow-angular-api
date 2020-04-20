@@ -3,17 +3,17 @@
             {
                 "value": "PHA001",
                 "label": "PHARMETICS (PTY) LTD",
-                "group": "BC2"
+                "rep": "BC2"
             },
             {
                 "value": "NOU001",
                 "label": "1701 NOUGAT & HAMPERS CC",
-                "group": ""
+                "rep": ""
             },
             {
                 "value": "3RD001",
                 "label": "3rde House",
-                "group": "LR1"
+                "rep": "LR1"
             }
         ],
         "status": [
