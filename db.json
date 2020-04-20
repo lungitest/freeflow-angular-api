@@ -1,61 +1,61 @@
 {
         "clients": [
             {
-                "value": "PHA001",
-                "label": "PHARMETICS (PTY) LTD",
+                "id": "PHA001",
+                "name": "PHARMETICS (PTY) LTD",
                 "rep": "BC2"
             },
             {
-                "value": "NOU001",
-                "label": "1701 NOUGAT & HAMPERS CC",
+                "id": "NOU001",
+                "name": "1701 NOUGAT & HAMPERS CC",
                 "rep": ""
             },
             {
                 "value": "3RD001",
-                "label": "3rde House",
+                "name": "3rde House",
                 "rep": "LR1"
             }
         ],
         "status": [
             {
-                "value": "1",
+                "id": "1",
                 "label": "Active"
             },
             {
-                "value": "2",
-                "label": "Complete"
+                "id": "2",
+                "name": "Complete"
             },
             {
-                "value": "3",
-                "label": "Inactive"
+                "id": "3",
+                "name": "Inactive"
             }
         ],
         "ae": [
             {
-                "value": "AM3",
+                "id": "AM3",
                 "label": "Andrew Maccullum"
             },
             {
-                "value": "AM4",
-                "label": "Andrew Macduff"
+                "id": "AM4",
+                "name": "Andrew Macduff"
             },
             {
-                "value": "AK4",
-                "label": "Anthony Kilpin"
+                "id": "AK4",
+                "name": "Anthony Kilpin"
             }
         ],
         "type": [
             {
-                "value": "1",
-                "label": "Default"
+                "id": "1",
+                "name": "Default"
             },
             {
-                "value": "2",
-                "label": "Pitch Work"
+                "id": "2",
+                "name": "Pitch Work"
             },
             {
-                "value": "3",
-                "label": "Pro-Active In-House"
+                "id": "3",
+                "name": "Pro-Active In-House"
             }
         ]
     }
