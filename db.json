@@ -19,7 +19,7 @@
         "status": [
             {
                 "id": "1",
-                "label": "Active"
+                "name": "Active"
             },
             {
                 "id": "2",
@@ -33,7 +33,7 @@
         "ae": [
             {
                 "id": "AM3",
-                "label": "Andrew Maccullum"
+                "name": "Andrew Maccullum"
             },
             {
                 "id": "AM4",
